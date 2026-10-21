@@ -128,7 +128,7 @@
     </div>
     <p>
       <a class="btn"
-         href="https://www.canva.com/"
+         href="https://https://canva.link/b4fk86aoj60fa8c/"
          target="_blank" rel="noopener">
         Voir mon portfolio Canva
       </a>
